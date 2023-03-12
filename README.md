@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Quynh 👋
 
 <!--
 **Ever-QN/ever-qn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently a student at Southern Alberta Institute of Technology (SAIT) studying Software Development. I have experience in HTML, CSS, Javascript, and I'm always looking to learn more.
+
+🌱 I’m currently learning Ruby, eventually adding a framework on top of it to utilize Ruby on Rails for making full-stack applications
+💬 Ask me about anything!
+📫 How to reach me: My Linkedin which is on my portfolio website.
