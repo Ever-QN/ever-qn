@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I am currently a student at Southern Alberta Institute of Technology (SAIT) studying Software Development. I have experience in HTML, CSS, Javascript, and I'm always looking to learn more.
 
-🌱 I’m currently learning Ruby, eventually adding a framework on top of it to utilize Ruby on Rails for making full-stack applications
-💬 Ask me about anything!
-📫 How to reach me: My Linkedin which is on my portfolio website.
+🌱 I’m currently learning Ruby, eventually adding a framework on top of it to utilize Ruby on Rails for making full-stack applications <br>
+💬 Ask me about anything! <br>
+📫 How to reach me: My Linkedin which is on my portfolio website. <br>
