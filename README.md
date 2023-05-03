@@ -22,4 +22,4 @@ Through my studies, I am learning a variety of programming languages and am (try
 🌱 I’m currently working on my web development skills, with plans to eventually learn NODEJS and utilize it as best as I can <br>
 🔭 I’m currently through some fullstack JS things!<br>
 💬 Ask me about anything! <br>
-📫 How to reach me: My Linkedin which is on my portfolio website. <br>
+📫 How to reach me: My Linkedin <br>
