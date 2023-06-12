@@ -20,6 +20,6 @@ I am currently a student at Southern Alberta Institute of Technology (SAIT) stud
 Through my studies, I am learning a variety of programming languages and am (trying) to learn frameworks along the way, as well as developing skills in problem-solving, critical thinking, and communication. As I continue to grow as a developer, I look forward to exploring new technologies and contributing to the ever-evolving world of software development.
 
 🌱 I’m currently working on my web development skills, with plans to eventually learn NODEJS and utilize it as best as I can <br>
-🔭 I’m currently through some fullstack JS things!<br>
+🔭 I’m currently going through some fullstack JS projects in my spare time!<br>
 💬 Ask me about anything! <br>
 📫 How to reach me: My Linkedin <br>
