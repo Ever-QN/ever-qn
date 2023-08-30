@@ -20,6 +20,6 @@ I am currently a student at Southern Alberta Institute of Technology (SAIT) stud
 Through my studies, I am learning a variety of programming languages and am (trying) to learn frameworks along the way, as well as developing skills in problem-solving, critical thinking, and communication. As I continue to grow as a developer, I look forward to exploring new technologies and contributing to the ever-evolving world of software development.
 
 🌱 I’m currently working on my web development skills, with plans to eventually learn the MERN stack and work with it as best as I can <br>
-🔭 I’m currently working on React + Typescript projects! (Currently my shopping cart project)
+🔭 I’m currently working on React + Typescript projects! (Currently my shopping cart project) <br>
 💬 Ask me about anything! <br>
 📫 How to reach me: My Linkedin <br>
