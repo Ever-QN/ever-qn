@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a student at Southern Alberta Institute of Technology (SAIT) studying Software Development. I have experience in React, Tailwind, and Typescript, and I'm always looking to learn more. As a software development student, I am passionate about creating innovative solutions through programming. I enjoy the challenge of tackling complex problems and finding elegant ways to solve them. 
+I am currently a student at Southern Alberta Institute of Technology (SAIT) studying Software Development. I am currently working on projects involving React, Tailwind, and Typescript, and I'm always looking to learn more. As a software development student, I am passionate about creating innovative solutions through programming. I enjoy the challenge of tackling complex problems and finding elegant ways to solve them.
 
-Through my studies, I am learning a variety of programming languages and am (trying) to learn frameworks along the way, as well as developing skills in problem-solving, critical thinking, and communication. As I continue to grow as a developer, I look forward to exploring new technologies and contributing to the ever-evolving world of software development.
+Through my studies, I am learning a variety of skills, some of which include problem-solving, critical thinking, and communication. As I continue to grow as a developer, I am always open to learning new technologies and trying out different things.
 
 🌱 I’m currently working on my web development skills, with plans to eventually learn the MERN stack and work with it as best as I can <br>
 🔭 I’m currently working on React + Typescript projects! (Currently my shopping cart project) <br>
