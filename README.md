@@ -9,6 +9,8 @@ Through my studies, I am learning a variety of skills, some of which include pro
 💬 Ask me about anything! <br>
 📫 How to reach me: My Linkedin <br>
 
+<br>
+
 <div class="row" align="center">
     
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ever-QN&theme=github_dark)  
