@@ -1,20 +1,5 @@
 ### Hello! 👋
 
-<!--
-**Ever-QN/ever-qn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I am currently a student at Southern Alberta Institute of Technology (SAIT) studying Software Development. I am currently working on projects involving React, Tailwind, and Typescript. As a software development student, I am passionate about creating innovative solutions through programming. I enjoy the challenge of tackling complex problems and finding elegant ways to solve them.
 
 Through my studies, I am learning a variety of skills, some of which include problem-solving, critical thinking, and communication. As I continue to grow as a developer, I am always open to learning new technologies and trying out different things.
@@ -23,3 +8,5 @@ Through my studies, I am learning a variety of skills, some of which include pro
 🔭 I am in the development of a personal Chrome extension aimed at addressing a particular challenge that I would like to solve for myself <br>
 💬 Ask me about anything! <br>
 📫 How to reach me: My Linkedin <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ever-QN&theme=github-dark-blue)](https://git.io/streak-stats)
