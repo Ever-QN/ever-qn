@@ -9,4 +9,9 @@ Through my studies, I am learning a variety of skills, some of which include pro
 💬 Ask me about anything! <br>
 📫 How to reach me: My Linkedin <br>
 
+<div class="row" align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ever-QN&theme=github-dark-blue)](https://git.io/streak-stats)
+
+</div>
+
