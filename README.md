@@ -10,8 +10,15 @@ Through my studies, I am learning a variety of skills, some of which include pro
 📫 How to reach me: My Linkedin <br>
 
 <div class="row" align="center">
+    
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ever-QN&theme=github_dark)  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ever-QN&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ever-QN&theme=github_dark)
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ever-QN&theme=github-dark-blue)](https://git.io/streak-stats)
-
 </div>
 
+<div class="row" align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Ever-QN&theme=github-dark-blue)](https://git.io/streak-stats)
+  
+</div>
