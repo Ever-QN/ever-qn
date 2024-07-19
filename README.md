@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I am currently a software developer graduate from Southern Alberta Institute of Technology (SAIT) majoring in the Software Development program. I am currently working on projects involving React, Tailwind, and Typescript. As a software developer, I am passionate about creating innovative solutions through programming. I enjoy the challenge of tackling complex problems and finding elegant ways to solve them.
+I am currently a software developer graduate from Southern Alberta Institute of Technology (SAIT). I am currently working on projects involving React, Tailwind, and Typescript. As a software developer, I am passionate about creating innovative solutions through programming. I enjoy the challenge of tackling complex problems and finding elegant ways to solve them.
 
 Through my studies, I am learning a variety of skills, some of which include problem-solving, critical thinking, and communication. As I continue to grow as a developer, I am always open to learning new technologies and trying out different things.
 
