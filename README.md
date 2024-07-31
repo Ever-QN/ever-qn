@@ -14,8 +14,6 @@ Through my studies, I am learning a variety of skills, some of which include pro
 <div class="row" align="center">
     
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ever-QN&theme=github_dark)  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ever-QN&theme=github_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ever-QN&theme=github_dark)
   
 </div>
 
