@@ -4,7 +4,7 @@ I am currently a software developer graduate from Southern Alberta Institute of 
 
 Through my studies, I am learning a variety of skills, some of which include problem-solving, critical thinking, and communication. As I continue to grow as a developer, I am always open to learning new technologies and trying out different things.
 
-🌱 I am currently working on my web development skills, with plans to move to desktop application development. <br>
+🌱 I am currently working on my web development skills, with plans to work on my desktop application development abilities. <br>
 🔭 I am currently developing an automation program using .NET to automate customer experience index (CEI) scores for my company.<br>
 💬 Ask me about anything! <br>
 📫 How to reach me: My Linkedin <br>
