@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-I am a software developer graduate from Southern Alberta Institute of Technology (SAIT). As a software developer, I am passionate about creating innovative solutions through programming and I enjoy the challenge of tackling complex problems, finding elegant ways to solve them.
+As a software developer, I am passionate about creating innovative solutions through programming and I enjoy the challenge of tackling complex problems, finding elegant ways to solve them. Right now, I am currently working on game modding in Unreal Engine 4 for the game, Payday 3.
 
-You can reach me by connecting with me on Linkedin. <br>
+You can reach me by connecting with me on Linkedin and sending me a message. <br>
 
 <br>
 
